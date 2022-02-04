@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @fadigorgees
-- 👀 I’m interested in ...
+- 👀 I’m interested in Computer Science, Music
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 fadigorgees/fadigorgees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
